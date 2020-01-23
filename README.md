@@ -9,3 +9,10 @@ Configure your username and email using the commands below
 
 ## Step 3
 Add files or alter current projects
+
+## Step 4
+Run through the commands to make a commit history
+```git
+git add .
+git commit -m "initial commit"
+```
